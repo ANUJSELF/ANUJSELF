@@ -61,8 +61,8 @@
 
 ## 🔥 GitHub Streak & Contributions
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujTiwari&theme=tokyonight" />
+  <a href="https://github.com/AnujSELF">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSELF&theme=tokyonight" />
   </a>
 </p>
 
