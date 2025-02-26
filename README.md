@@ -38,6 +38,41 @@
 - 🌱 I’m learning **Deep Learning & Cloud Computing**
 - 💬 Ask me about **Python, SQL, or Machine Learning**
 - ⚡ Fun fact: **I love automating boring tasks!**
-git add README.md
-git commit -m "Updated GitHub Profile"
-git push origin main
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+### 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/AnujTiwari/Exploratory-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujTiwari&repo=Exploratory-Data-Analysis&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AnujTiwari/Vital-Tracking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujTiwari&repo=Vital-Tracking-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AnujTiwari/Automatic-Number-Plate-Recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujTiwari&repo=Automatic-Number-Plate-Recognition&theme=tokyonight" />
+  </a>
+</p>
+### 🔥 GitHub Streak & Contributions
+<p align="center">
+  <a href="https://github.com/AnujTiwari">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujTiwari&theme=tokyonight" />
+  </a>
+</p>
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+### 🎵 Now Playing (Spotify)
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=black&border_color=blue" />
+</p>
