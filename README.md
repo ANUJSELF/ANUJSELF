@@ -4,7 +4,7 @@
 <h3 align="center">A Data Analyst & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
+  <a href="https://github.com/AnujSELF">
     <img src="https://github-readme-stats.vercel.app/api?username=AnujTiwari&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   </a>
 </p>
@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/anuj-tiwari-15548a180" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AnujTiwari" target="_blank">
+  <a href="https://github.com/AnujSELF" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
@@ -37,17 +37,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
+  <a href="https://github.com/AnujSELF">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujTiwari&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujTiwari&theme=tokyo-night" />
+  <a href="https://github.com/AnujSELF">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujSELF&theme=tokyo-night" />
   </a>
 </p>
+
 
 ---
 
