@@ -10,7 +10,14 @@
 </p>
 
 ## 🌐 Connect with Me:
-<p align="center"> <a href="https://linkedin.com/in/anuj-tiwari-15548a180" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-5607999-4652676.png" width="50" alt="LinkedIn" /> </a> <a href="https://github.com/AnujSELf" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-7627133-6160316.png" width="50" alt="GitHub" /> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/anuj-tiwari-15548a180" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AnujSELF" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
