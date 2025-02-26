@@ -29,8 +29,8 @@
 </p>
 ### 📈 Contribution Graph
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AnujTiwari&theme=tokyonight" />
+  <a href="https://github.com/ANUJSELF">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUJSELF&theme=tokyo-night" />
   </a>
 </p>
 ### 😄 Fun Facts
