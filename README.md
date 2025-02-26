@@ -38,3 +38,6 @@
 - 🌱 I’m learning **Deep Learning & Cloud Computing**
 - 💬 Ask me about **Python, SQL, or Machine Learning**
 - ⚡ Fun fact: **I love automating boring tasks!**
+git add README.md
+git commit -m "Updated GitHub Profile"
+git push origin main
