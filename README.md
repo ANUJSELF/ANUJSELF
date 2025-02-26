@@ -49,6 +49,12 @@
   </a>
 </p>
 
+## 📌 Top Contributed Repositories
+<p align="center">
+  <a href="https://github.com/AnujSELF">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AnujSELF&limit=5&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
