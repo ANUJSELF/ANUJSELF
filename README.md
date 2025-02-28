@@ -35,12 +35,7 @@
 ## 🛠 Technologies & Tools
 ### Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 </p>
 
 ### Backend
@@ -60,13 +55,10 @@
 
 ### IoT & Embedded Systems
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microchip/microchip-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gps/gps-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsm/gsm-original.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&theme=dark" />
+  <img src="https://img.shields.io/badge/Microprocessors-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPS-FF9800?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSM-3F51B5?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Biomedical Sensors
@@ -119,7 +111,7 @@
 ## 💨 3D Contribution Calendar
 <p align="center">
   <a href="https://github.com/AnujTiwari">
-    <img src="https://github.com/Yizack/github-readme-3d-contrib/blob/main/docs/demo.gif?raw=true" alt="3D Contribution" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D Contribution" />
   </a>
 </p>
 
