@@ -11,6 +11,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/AnujSELF">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnujTiwari" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/anuj-tiwari-15548a180" target="_blank">
@@ -24,8 +33,24 @@
 ---
 
 ## 🛠 Technologies & Tools
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,react,nodejs,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+### Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify&theme=dark" />
+</p>
+
+### AI & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,tensorflow,opencv&theme=dark" />
 </p>
 
 ---
