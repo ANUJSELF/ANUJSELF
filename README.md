@@ -9,6 +9,8 @@
   </a>
 </p>
 
+---
+
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/anuj-tiwari-15548a180" target="_blank">
@@ -22,15 +24,8 @@
 ---
 
 ## 🛠 Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,react,nodejs,tensorflow,opencv&theme=dark" />
 </p>
 
 ---
@@ -59,7 +54,7 @@
 ---
 
 ## 😄 Fun Facts About Me
-- 🔭 I’m currently working on **AI & Data Science Projects**
+- 🔝 I’m currently working on **AI & Data Science Projects**
 - 🌱 I’m learning **Deep Learning & Cloud Computing**
 - 💬 Ask me about **Python, SQL, or Machine Learning**
 - ⚡ Fun fact: **I love automating boring tasks!**
@@ -70,6 +65,15 @@
 <p align="center">
   <a href="https://github.com/AnujSELF">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujSELF&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 💨 3D Contribution Calendar
+<p align="center">
+  <a href="https://github.com/AnujSELF">
+    <img src="https://github.com/Ashutosh00710/github-readme-3d-contrib/blob/main/docs/demo.gif?raw=true" alt="3D Contribution" />
   </a>
 </p>
 
