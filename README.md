@@ -14,7 +14,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/AnujSELF">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnujTiwari" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AnujTiwari&theme=tokyonight" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -35,22 +35,32 @@
 ## 🛠 Technologies & Tools
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
 </p>
 
 ### Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,aws,gcp,heroku&theme=dark" />
 </p>
 
 ### AI & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,tensorflow,opencv,pytorch,scikitlearn,r,matlab&theme=dark" />
+</p>
+
+### IoT & Embedded Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,embeddedc&theme=dark" />
+</p>
+
+### Biomedical Sensors
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedical%20Sensors-009688?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -97,8 +107,8 @@
 
 ## 💨 3D Contribution Calendar
 <p align="center">
-  <a href="https://github.com/AnujSELF">
-    <img src="https://github.com/Ashutosh00710/github-readme-3d-contrib/blob/main/docs/demo.gif?raw=true" alt="3D Contribution" />
+  <a href="https://github.com/AnujTiwari">
+    <img src="https://github.com/Yizack/github-readme-3d-contrib/blob/main/docs/demo.gif?raw=true" alt="3D Contribution" />
   </a>
 </p>
 
