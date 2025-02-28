@@ -1,5 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)](https://github.com/AnujTiwari)
-
+[![MasterHead](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)](https://github.com/AnujTiwari)
 <h1 align="center">Hi 👋, I'm Anuj Tiwari</h1>
 <h3 align="center">A Data Analyst & AI Enthusiast</h3>
 
