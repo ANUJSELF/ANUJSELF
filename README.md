@@ -110,7 +110,7 @@
 
 ## 💨 3D Contribution Calendar
 <p align="center">
-  <a href="https://github.com/AnujTiwari">
+  <a href="https://github.com/AnujSELF">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="3D Contribution" />
   </a>
 </p>
